@@ -1,0 +1,20 @@
+{
+  "name": "debugger_config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.6",
+    "eslint": "^7.32.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "git@github.com:AnastasiiaPro/debugger_config.git",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
